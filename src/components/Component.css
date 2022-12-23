@@ -1,0 +1,16 @@
+.component {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  background-color: #101010;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  padding: 0 1rem;
+}
+
+.count {
+  background-color: black;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+}
